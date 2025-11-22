@@ -1,0 +1,65 @@
+
+body {
+    background-color: azure;   
+    text-align: center;         
+    color: darkblue;            
+    font-family: Arial, sans-serif;
+}
+
+
+h1 {
+    margin-bottom: 20px;
+}
+
+
+.img-banerCosta {
+    width: 100%;
+    height: auto;
+}
+
+
+p {
+    text-align: justify;
+    font-size: 13pt;
+    margin: 15px;
+}
+
+
+.seccion img {
+    width: 20%;
+    display: block;
+    margin: 0 auto 15px auto;
+}
+
+
+.seccion {
+    margin-bottom: 25px;
+}
+
+
+.img {
+    width: 20%;
+    margin: 5px;
+    display: inline-block;
+}
+
+
+strong {
+    text-align: center;
+    font-size: 15pt;
+    display: block;
+    margin-top: 20px;
+}
+
+
+.enlaces a {
+    color: red;
+    font-size: 20pt;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.enlaces {
+    text-align: center;
+}
+

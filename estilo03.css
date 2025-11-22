@@ -1,0 +1,39 @@
+body{
+    background-color: lemonchiffon;
+}
+h1{
+    text-align: center;
+    color:darkgreen;
+    font-family: "playfair-display" Arial, Helvetica, sans-serif;
+}
+h2{
+    text-align: center;
+    color:darkgreen;
+}
+P{
+    text-align: justify;
+    font-size: 15pt;
+    color:rgb(80, 76, 76);
+}
+img{
+    width: 90%;
+    margin:auto;
+    display:block;
+}
+.img2{
+width: 75%;
+display:flex;
+margin:auto;
+justify-content: center;
+gap:5px;
+}
+.img3{
+    width: 40%;
+    display:flex;
+    margin:auto;
+}
+a{
+    font-size: 18pt;
+    color:orange;
+    display:block;
+}

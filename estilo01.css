@@ -1,0 +1,39 @@
+
+body{
+background-color: beige;
+font-family: "playfair-display" 'Times New Roman', Times, serif, Helvetica, sans-serif
+}
+
+h1,h2{
+    color: red;
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+}
+
+.espaciado{
+     letter-spacing: 3px;
+     font-style: italic;
+}
+p{
+    text-align: justify;
+    font-size:15pt;
+}
+
+
+.strong{
+    color:rgb(17, 138, 17);
+    font-weight: bold;
+}
+.em{
+    color:rgb(221, 90, 3);
+    font-weight: bold;
+}
+
+.strong-em{
+    color:brown;
+    font-weight:bold;
+}
+
+.espaciado-wiki{
+    letter-spacing: 5px;
+    font-style:italic;
+}
